@@ -1,0 +1,10 @@
+{
+    "name": "iwoca/test-release-pipeline",
+    "description": "Test package for release pipeline validation",
+    "version": "1.4.1",
+    "type": "magento2-module",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    }
+}
