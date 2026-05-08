@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<field id="version" translate="label" type="label" sortOrder="15" showInDefault="1" showInWebsite="1" showInStore="0">
+  <label>Plugin Version</label>
+<comment><![CDATA[1.4.4]]></comment>
+</field>
